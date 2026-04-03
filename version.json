@@ -1,10 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "versionCode": 101,
   "added": [
-    "Исправлен запуск",
-    "Новый экран обновления",
-    "Улучшена стабильность"
+    "тест"
   ],
   "apkUrl": "https://github.com/APECTOBAH1/privategram/releases/download/untagged-7c056b69c1a0d8003ffc/PrivateGram.apk"
 }
